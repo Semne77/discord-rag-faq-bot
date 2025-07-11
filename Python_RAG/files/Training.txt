@@ -1,0 +1,128 @@
+Title: Training for AI Engineers
+
+Basic AI Concepts
+
+Machine Learning: Systems learn patterns from data to improve performance.
+
+Deep Learning: Neural networks with many layers to model complex patterns.
+
+Natural Language Processing (NLP): Processing and understanding human language.
+
+Transformers Architecture: Allows models to focus on the right words using attention mechanisms.
+
+Computer Vision: Interpreting and analyzing visual information.
+
+Large Language Models (LLMs)
+
+Generative AI overview
+
+Tokens: LLMs read tokens (approx. 4 characters each).
+
+Context Window: Maximum tokens an LLM can handle at once.
+
+Hallucinations: Incorrect or made-up answers by LLMs.
+
+Prompt Engineering: Crafting effective prompts for better results.
+
+Top Players/Tools: OpenAI, Azure OpenAI, Anthropic, Hugging Face, LangChain, CrewAI.
+
+LangChain Agents: AI bots that access APIs and tools.
+
+Retrieval-Augmented Generation (RAG).
+
+Conversational Agents: Multi-agent discussions before answering.
+
+FastAPI: Python web framework for APIs.
+
+Docker: Containerization for data science workflows.
+
+Advanced AI Concepts
+
+Overfitting & Underfitting.
+
+Bias and Variance.
+
+MLOps: Practices for deploying ML models.
+
+Feature Engineering.
+
+Hyperparameter Tuning.
+
+Model Deployment.
+
+Framing the AI Task.
+
+Data Cleaning.
+
+Sampling Frequency.
+
+Supervised Learning:
+
+Classification, Regression, Recommendation, NER, Speech Recognition, Object Detection, Segmentation.
+
+Unsupervised Learning:
+
+Clustering, Dimensionality Reduction.
+
+Reinforcement Learning.
+Generative Models (GANs).
+Anomaly Detection.
+RLHF (Reinforcement Learning with Human Feedback).
+Model Distillation.
+Quantization vs. Pruning vs. Distillation.
+Self-hosting LLMs.
+Fine-tuning Neural Networks.
+Catastrophic Forgetting.
+
+Agents - Advanced Concepts
+
+Reflection.
+
+Tool Use.
+
+Planning.
+
+Multi-agent Collaboration.
+
+Agent Evaluations.
+
+Observability & Evaluations (LangSmith).
+
+Designing with Agents in Mind:
+
+The Agentic Era of UX.
+
+Agent-focused UX (Chat, Ambient, Spreadsheets/Collaborative interfaces).
+
+Examples of AI Products:
+
+Create ChatGPT Application with OpenAI API using Flask.
+
+Build AI Apps with ChatGPT & DALL-E.
+
+Developer Channels for updates.
+
+Introduction to Databases
+
+Database Basics: Microsoft Database Foundations.
+
+SQL Basics and Advanced Queries.
+
+Database Design & Normalization:
+
+Database schema.
+
+Logical design with E-R diagrams.
+
+Applying normalization rules.
+
+Advanced Databases (Optional): Meta's 27-hour database intro.
+
+Python Fundamentals for Data:
+
+Python basics.
+
+Data manipulation (Pandas, NumPy).
+
+Connecting Python to Databases using SQLAlchemy, psycopg2.
+

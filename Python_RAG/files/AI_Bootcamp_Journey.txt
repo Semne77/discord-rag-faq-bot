@@ -1,0 +1,292 @@
+Bootcamp Journey Overview:
+
+Covers:
+
+Technical Skills Development
+
+Core ML/AI Concepts
+
+Generative AI & Data Engineering
+
+MLOps & Deployment
+
+Project-Based Learning
+
+Agile Scrum Methodology
+
+Team Collaboration
+
+Real-world Applications
+
+Project Timeline (11 Weeks)
+Week 1: Learning and Onboarding
+
+Study AI knowledge.
+
+Engineers: Work on Job Tracker or PM FAQ Chatbot.
+
+Join Office Hours to discuss projects.
+
+Training for AI Engineers.
+
+Training for AI Designers.
+
+Week 2: Continued Learning and Onboarding
+
+Study AI knowledge.
+
+Designers: Join Pitch Day & Team Match (fill out AI products in Team Match XLS).
+
+Discuss User Interview Process.
+
+Engineers: Continue Job Tracker or PM FAQ Chatbot.
+
+Join Office Hours.
+
+Week 3: Development
+
+Designers: Build high-fidelity designs, conduct user interviews.
+
+Engineers: Continue Job Tracker or Discord PM FAQ Chatbot.
+
+Join Office Hours.
+
+Week 4: Pitch Day & Ranking
+
+Designers and PMs present to Engineers.
+
+Engineers join Zoom Pitch Day and complete Google Ranking Form (lead engineers get priority).
+
+Weeks 5-9: Cross-functional Agile Development
+
+Continue feature development in Agile teams.
+
+Week 10: Testing and Demo Prep
+
+Week 11: Demo
+
+Training Documents
+Training for Engineers
+
+Training for Designers
+
+Technical Skills Development (Weeks 1-2)
+Core ML/AI Concepts (3 Days)
+
+Day 1: ML Fundamentals
+
+Neural networks architecture
+
+Forward/backward propagation
+
+Activation functions
+
+Loss functions
+
+Transformer architecture, attention mechanisms, self-attention, multi-head attention
+
+Day 2: Deep Learning
+
+Transfer learning
+
+Pre-trained models
+
+Fine-tuning strategies
+
+Model evaluation, metrics, validation, common pitfalls
+
+Day 3: Hands-on Practice
+
+PyTorch basics
+
+Model training workshop
+
+Resources:
+
+Transformers Illustrated
+
+The Illustrated Transformer – Jay Alammar
+
+Andrej Karpathy's Neural Networks Zero to Hero
+
+Neural Networks: Zero to Hero - YouTube
+
+Hugging Face Course
+
+Generative AI & Data Engineering (4 Days)
+Day 1-2: LLM Fundamentals
+
+LLM architectures
+
+Prompt engineering
+
+Context length and limitations
+
+Retrieval Augmented Generation (RAG)
+
+Vector databases
+
+Day 3: Data Engineering
+
+Data preprocessing
+
+Text chunking
+
+Embedding models
+
+Vector similarity search
+
+Data quality and validation
+
+Day 4: Integration
+
+API integration (OpenAI, Anthropic)
+
+Streaming responses
+
+Error handling
+
+Cost optimization
+
+Exercises:
+
+Build a chatbot
+
+Implement a RAG system
+
+Create a custom training dataset
+
+Resources:
+
+LangChain Documentation
+
+LangChain Tutorials
+
+OpenAI Cookbook
+
+Pinecone: What is a Vector Database
+
+MLOps & Deployment (3 Days)
+Day 1: Development Practices
+
+Git workflow
+
+Code reviews
+
+Documentation standards
+
+Testing strategies
+
+Day 2: Deployment
+
+Docker containerization
+
+CI/CD pipelines
+
+Model serving
+
+FastAPI for API development
+
+Day 3: Monitoring
+
+Logging
+
+Performance monitoring
+
+Cost tracking
+
+Error handling
+
+Resources:
+
+MLOps Zoomcamp
+
+FastAPI Documentation
+
+Docker for ML
+
+Project-Based Learning (Weeks 3-11)
+Agile Scrum Methodology
+
+1-2 week sprints
+
+Daily standups
+
+Sprint planning, review, retrospective
+
+Documentation: sprint backlog, user stories, technical documentation, API docs, deployment guides
+
+Tools:
+
+Jira, Monday, or other project trackers
+
+GitHub for code management
+
+Team Collaboration (Weeks 4-11)
+Roles:
+
+Full Stack Engineer
+
+Frontend Engineer
+
+Backend Engineer
+
+Data Scientist
+
+Data Engineer
+
+UX Designer
+
+Product Manager
+
+Weekly Schedule:
+
+Monday: Sprint planning/review
+
+Daily: Standups
+
+Wednesday: Technical discussions
+
+Friday: Demos/documentation
+
+Real-world Applications
+Project Requirements:
+
+Business value proposition
+
+Scalability
+
+Cost optimization
+
+Security compliance
+
+User experience
+
+Deliverables:
+
+Working prototype
+
+Technical documentation
+
+API documentation
+
+Deployment pipeline
+
+Monitoring dashboard
+
+Final presentation
+
+Onboarding Video
+Onboarding by Anil Thomas:
+https://youtu.be/ZBEoZYmMCMc
+
+Success Metrics
+Functional prototype
+
+Clean, documented code
+
+Comprehensive testing
+
+Effective presentation
+
+Team collaboration

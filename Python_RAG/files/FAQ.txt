@@ -1,0 +1,172 @@
+Cleaned: Intern FAQ – AI Bootcamp
+Next Steps: Intern Onboarding
+
+Watch the welcome and onboarding video by Dr. Nancy Li (mandatory for success).
+
+Join the Developer Discord server, complete onboarding, and update your profile with your full name and LinkedIn URL.
+
+Introduce yourself in #networking and post your tech stack in #techstack.
+
+Watch past cohort demos:
+
+Summary of Cohort 1 & 2 Demo
+
+Example of Cohort 3 Demo
+
+Join the first tech mentor session (dates announced on Discord).
+
+Reference the onboarding/training guide and YouTube playlists:
+
+Engineers’ Training Playlist
+
+Designers’ Training Playlist
+
+Team Matching Process:
+
+Week 2: Product Managers pitch to Designers to join AI product teams.
+
+Week 4: PMs & Designers present high-fidelity designs to Engineers and Data Scientists.
+
+Participation in Pitch Day sessions is mandatory.
+
+Offer letters will be sent by the support team.
+
+Visa Sponsorship:
+
+If you need visa sponsorship, reply to the offer email with details and deadlines.
+
+Post your request in #visa-sponsorship on Discord for tracking.
+
+Communication:
+
+Use Discord channels for all communication.
+
+Tag Marla for operations questions.
+
+Do not DM Dr. Nancy Li; use public channels.
+
+Weekly Intern Expectations
+Week 1:
+Watch onboarding and learning videos (engineer or designer track).
+
+Engineers: Choose between Discord RAG Chatbot or Job Tracker Agent projects.
+
+Discuss your assignment in Discord channels.
+
+Attend office hours for mentorship.
+
+Week 2:
+Continue watching learning videos.
+
+Engineers: Continue chosen project.
+
+Designers: Join Pitch Day, hear PM pitches, and fill out the Team Match spreadsheet.
+
+Week 3:
+Engineers: Finish your assignment and share progress.
+
+Designers: Conduct user interviews, validate AI ideas, and create high-fidelity designs for Pitch Day.
+
+Week 4:
+Join Pitch Day for PMs and Designers to present ideas and designs.
+
+Engineers:
+
+Fill out the Google form with your tech stack, experience, top 3 product choices, and Lead Engineer preference.
+
+Weeks 5–8:
+Work with your AI product teams to create an AI MVP.
+
+Lead Engineers assist with system design and GitHub setup.
+
+Weeks 9–10:
+Testing of functionalities with designers providing user insight.
+
+PMs create the GitHub repository.
+
+Lead Engineers assist team members with GitHub and system design.
+
+AI PM Bootcamp FAQ
+Team Structure:
+
+Teams typically include:
+
+Product Managers (user research, roadmap)
+
+Developers (technical build)
+
+Optional: Data Scientists and Designers
+
+Typical team size: 8–10 members.
+
+Cohort Schedule:
+
+Week 1: AI Product Strategy, AI Basics
+Week 2: End-to-End AI Product Management
+Week 3: LLMs, Trade-offs, Pricing
+Week 4: Advanced AI & Architecture, Team Match with Developers
+Week 5: AI UI/UX Design
+Week 6: Advanced Prompt Engineering
+Week 7: No-code Tool Prototyping
+Week 8: AI Product Portfolio Development
+Week 9: AI PM Resume Building
+Week 10: AI PM Interviews
+Week 11: Go-To-Market & Demo Day
+
+Upcoming Cohorts:
+
+Cohort #5: Jun 23, 2025 – Sep 12, 2025
+
+Cohort #6: Sept 15, 2025 – Nov 28, 2025
+
+Certification:
+
+Interns receive official PM Accelerator certification.
+
+Can add certification to resume, LinkedIn, and portfolio.
+
+AI Bootcamp Awards
+🥇 AI Trailblazer:
+
+Led innovation, completed the full project cycle, 90%+ meetings, high-impact contributions, team leadership.
+
+🥈 AI Innovator:
+
+Completed most assigned work, 75%+ meetings, consistent contributions, strong engineering fundamentals.
+
+🥉 AI Rising Star:
+
+Participated throughout, communicated consistently, showed learning enthusiasm.
+
+Awards include LinkedIn badges, recommendations, job referrals, and mentorship opportunities.
+
+Additional Intern Q&A
+Start Date: The earliest start is next week post-assessment. Check your offer letter.
+
+Paid/Unpaid: Unpaid, but offers valuable real-world AI project experience.
+
+Commitment: 10 hours/week minimum.
+
+Tech Stack: Any stack is acceptable; Python is commonly used.
+
+GitHub Submissions: Public repositories preferred for assessment.
+
+APIs: Allowed and encouraged.
+
+Project Examples: AI-powered home renovation, inventory forecasting, price prediction, productivity tools.
+
+Coding Requirements: Demonstrated skills required for selection.
+
+Post-Internship Opportunities: Certification, LinkedIn listing, and potential job referrals for top performers.
+
+OPT/CPT: Align start/end dates with the cohort timeline, consult your school, and follow E-Verify steps if applicable.
+
+Paid Services: API/cloud costs covered by PMA or PMs; hardware not covered.
+
+Kajabi Access: Interns do not receive Kajabi course access but receive separate recorded training and documents.
+
+Useful Links:
+
+Intern Recorded Training
+
+Intern Onboarding, AI Course, and Guide

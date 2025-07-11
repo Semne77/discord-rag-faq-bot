@@ -1,0 +1,21 @@
+version: "3.9"
+
+services:
+  python_rag:
+    build:
+      context: ./python_rag
+    container_name: python_rag
+    ports:
+      - "8000:8000"
+    env_file:
+      - ./python_rag/.env
+
+  discord_bot:
+    build:
+      context: ./discord_bot
+    container_name: discord-bot
+    env_file:
+      - ./discord_bot/.env
+    depends_on:
+      - python_rag
+

@@ -1,0 +1,7 @@
+{"level":"error","message":"Error in YouTube RAG query: ragService.queryYoutubeRag is not a function","timestamp":"2025-07-09T14:35:58.776Z"}
+{"level":"error","message":"Error in queryYoutubeRag: Request failed with status code 500","timestamp":"2025-07-09T14:39:36.153Z"}
+{"level":"error","message":"Error in YouTube RAG query: Failed to retrieve answer from YouTube RAG service.","timestamp":"2025-07-09T14:39:36.154Z"}
+{"level":"error","message":"Error in queryYoutubeRag: Request failed with status code 500","timestamp":"2025-07-09T21:16:40.264Z"}
+{"level":"error","message":"Error in YouTube RAG query: Failed to retrieve answer from YouTube RAG service.","timestamp":"2025-07-09T21:16:40.265Z"}
+{"level":"error","message":"Error in queryYoutubeRag: Request failed with status code 500","timestamp":"2025-07-09T21:21:23.543Z"}
+{"level":"error","message":"Error in YouTube RAG query: Failed to retrieve answer from YouTube RAG service.","timestamp":"2025-07-09T21:21:23.544Z"}

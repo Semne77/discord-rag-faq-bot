@@ -1,0 +1,44 @@
+{"level":"info","message":"Logged in as Bot Application#4412","timestamp":"2025-07-04T15:37:39.979Z"}
+{"level":"info","message":"Logged in as Bot Application#4412","timestamp":"2025-07-04T16:16:34.889Z"}
+{"level":"info","message":"Logged in as Bot Application#4412","timestamp":"2025-07-04T16:20:45.003Z"}
+{"level":"info","message":"Logged in as Bot Application#4412","timestamp":"2025-07-04T16:20:59.730Z"}
+{"level":"info","message":"Logged in as Bot Application#4412","timestamp":"2025-07-09T04:36:42.970Z"}
+{"level":"info","message":"Received #ask: What the bootcamp will be about? from semne77","timestamp":"2025-07-09T04:38:06.123Z"}
+{"level":"info","message":"Received #ask: Who is my supervior for the bootcamp or who should I ask most of my questions? from semne77","timestamp":"2025-07-09T04:38:55.592Z"}
+{"level":"info","message":"Logged in as Bot Application#4412","timestamp":"2025-07-09T13:52:11.307Z"}
+{"level":"info","message":"Received #ask: give me some videos about transformer architecture from semne77","timestamp":"2025-07-09T13:52:47.806Z"}
+{"level":"info","message":"Logged in as Bot Application#4412","timestamp":"2025-07-09T14:35:35.376Z"}
+{"level":"info","message":"Received #res give me videos about transformer architecture from semne77","timestamp":"2025-07-09T14:35:58.776Z"}
+{"level":"error","message":"Error in YouTube RAG query: ragService.queryYoutubeRag is not a function","timestamp":"2025-07-09T14:35:58.776Z"}
+{"level":"info","message":"Logged in as Bot Application#4412","timestamp":"2025-07-09T14:39:25.326Z"}
+{"level":"info","message":"Received #res give me videos about transformer architecture from semne77","timestamp":"2025-07-09T14:39:35.404Z"}
+{"level":"error","message":"Error in queryYoutubeRag: Request failed with status code 500","timestamp":"2025-07-09T14:39:36.153Z"}
+{"level":"error","message":"Error in YouTube RAG query: Failed to retrieve answer from YouTube RAG service.","timestamp":"2025-07-09T14:39:36.154Z"}
+{"level":"info","message":"Logged in as Bot Application#4412","timestamp":"2025-07-09T21:16:29.994Z"}
+{"level":"info","message":"Received #res give me videos about transformer architecture from semne77","timestamp":"2025-07-09T21:16:39.516Z"}
+{"level":"error","message":"Error in queryYoutubeRag: Request failed with status code 500","timestamp":"2025-07-09T21:16:40.264Z"}
+{"level":"error","message":"Error in YouTube RAG query: Failed to retrieve answer from YouTube RAG service.","timestamp":"2025-07-09T21:16:40.265Z"}
+{"level":"info","message":"Received #res give me videos about transformer architecture from semne77","timestamp":"2025-07-09T21:21:22.835Z"}
+{"level":"error","message":"Error in queryYoutubeRag: Request failed with status code 500","timestamp":"2025-07-09T21:21:23.543Z"}
+{"level":"error","message":"Error in YouTube RAG query: Failed to retrieve answer from YouTube RAG service.","timestamp":"2025-07-09T21:21:23.544Z"}
+{"level":"info","message":"Received #res give me videos about transformer architecture from semne77","timestamp":"2025-07-09T21:24:52.175Z"}
+{"level":"info","message":"Received #res give me videos about transformer architecture from semne77","timestamp":"2025-07-09T21:28:56.297Z"}
+{"level":"info","message":"Logged in as Bot Application#4412","timestamp":"2025-07-09T22:02:05.546Z"}
+{"level":"info","message":"Received #ask: will there be any awards for students upon the completion of the internship? from semne77","timestamp":"2025-07-09T22:03:37.669Z"}
+{"level":"info","message":"Logged in as Bot Application#4412","timestamp":"2025-07-09T22:06:42.521Z"}
+{"level":"info","message":"Logged in as Bot Application#4412","timestamp":"2025-07-09T22:07:01.637Z"}
+{"level":"info","message":"Received #ask: will there be any awards for students upon the completion of the internship? from semne77","timestamp":"2025-07-09T22:08:29.629Z"}
+{"level":"info","message":"Received #ask: What the bootcamp will be about? from semne77","timestamp":"2025-07-09T22:11:58.224Z"}
+{"level":"info","message":"Logged in as Bot Application#4412","timestamp":"2025-07-10T04:36:53.272Z"}
+{"level":"info","message":"Received #ask: What the bootcamp will be about? from semne77","timestamp":"2025-07-10T04:37:09.391Z"}
+{"level":"info","message":"Received #add from semne77","timestamp":"2025-07-10T04:56:29.675Z"}
+{"level":"info","message":"Logged in as Bot Application#4412","timestamp":"2025-07-10T19:36:14.098Z"}
+{"level":"info","message":"Received #add from semne77","timestamp":"2025-07-10T19:37:22.657Z"}
+{"level":"info","message":"Received #ask: what is the Discord RAG bot project about? from semne77","timestamp":"2025-07-10T19:38:22.709Z"}
+{"level":"info","message":"Received #res give me please some videos about the transformer architecture from semne77","timestamp":"2025-07-10T19:39:06.650Z"}
+{"level":"info","message":"Received #res give me please some videos about the transformer architecture from semne77","timestamp":"2025-07-10T19:43:26.789Z"}
+{"level":"info","message":"Received #res give me please some videos about the transformer architecture from semne77","timestamp":"2025-07-10T19:44:41.095Z"}
+{"level":"info","message":"Logged in as Bot Application#4412","timestamp":"2025-07-11T04:09:38.249Z"}
+{"level":"info","message":"Received #res give me something on docker setup from semne77","timestamp":"2025-07-11T04:10:06.434Z"}
+{"level":"info","message":"Logged in as Bot Application#4412","timestamp":"2025-07-11T04:40:12.600Z"}
+{"level":"info","message":"Received #ask: how long is the bootcamp lasts? from semne77","timestamp":"2025-07-11T04:40:36.180Z"}
